@@ -3,9 +3,9 @@
 # Ian K.
 Automation Quality Expert 
 # Contact information
-+998 93-808-59-68
+**Phone:** +998 93-808-59-68
 
-[RS School Discord Server Name ](glitchyouth#0340"Placeholder")
+**Add me on Discord:** [RS School Discord Server Name ](glitchyouth#0340"Placeholder")
 # Summary 
 Certified IT digital transformation professional with a proven international experience in providing customers with measured value by accomplishing automation projects' goals within industries such as Technology,  Financial Services, Government & Public sector.
 # Technology stack  
@@ -46,4 +46,3 @@ Extract from a script which comes in handy when creating blocks for custom **aut
 
 **Italian language**
 >Limited work efficiency. 
-
