@@ -11,7 +11,9 @@ Automation Quality Expert
 Certified IT digital transformation professional with a proven international experience in providing customers with measured value by accomplishing automation projects' goals within industries such as Technology,  Financial Services, Government & Public sector.
 # Technology stack  
 >**GIT**
+>
 >**Python/VBA** 
+>
 >**HTML/CSS/PHP**  
 
 # Code snippets
