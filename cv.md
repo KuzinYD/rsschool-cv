@@ -10,14 +10,12 @@ Automation Quality Expert
 # Summary 
 Certified IT digital transformation professional with a proven international experience in providing customers with measured value by accomplishing automation projects' goals within industries such as Technology,  Financial Services, Government & Public sector.
 # Technology stack  
-Git
-Python
-HTML/CSS
-PHP
-Selenium
-RPA
-VBA
-Powershell
+|                |                                                 
+|----------------| 
+|GIT|            |
+|Python/VBA      |
+|HTML/CSS/PHP    |
+
 # Code snippets
 Extract from a script which comes in handy when creating blocks for custom **automation** of workflows.
 
