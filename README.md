@@ -1,1 +1,1 @@
-#https://KuzinYD.github.io/rsschool-cv/cv
+https://KuzinYD.github.io/rsschool-cv/cv
